@@ -1,0 +1,1 @@
+document.getElementById("Name").innerHTML = "Asif Iqbal S/O NAZIR HUSSAIN";
